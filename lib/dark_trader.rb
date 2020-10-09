@@ -42,3 +42,5 @@ crypto_array=arrayfy(currencies_array, values_array)
 
 
 puts crypto_array
+
+#todo le resultat est limité au 200 premier currencies pour info il faut prévoir de quoi aller chercher les autres currencies
